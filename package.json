@@ -9,6 +9,6 @@
   "author": "Justin Bakse",
   "license": "ISC",
   "dependencies": {
-    "compform-kit": "0.0.1"
+    "compform-kit": "0.0.6"
   }
 }
